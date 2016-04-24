@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0lax/test-blog.git"
+  },
+  "keywords": [
+    "p0lax",
+    "blog"
+  ],
+  "author": "p0lax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p0lax/test-blog/issues"
+  },
+  "homepage": "https://github.com/p0lax/test-blog#readme"
+}
